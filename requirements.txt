@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost==1.7.6
+fpdf
+groq
+openpyxl
