@@ -451,7 +451,7 @@ Give realistic timelines. No jargon. No mention of ML or models. Use ₹.
     pdf = FPDF()
     pdf.add_page()
     pdf.set_font("Helvetica", "B", 18)
-    pdf.cell(0, 12, "FinAI — Financial Health Report", ln=True, align="C")
+    pdf.cell(0, 12, "FinAI - Financial Health Report", ln=True, align="C")
     pdf.ln(3)
     pdf.set_font("Helvetica", "B", 12)
     pdf.cell(0, 8, "Finances", ln=True)
