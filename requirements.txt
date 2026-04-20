@@ -3,7 +3,8 @@ pandas
 numpy
 matplotlib
 scikit-learn
-xgboost==1.7.6
-fpdf
-groq
+xgboost
+fpdf2
 openpyxl
+groq
+python-dateutil
