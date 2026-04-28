@@ -11,7 +11,7 @@ from dateutil.relativedelta import relativedelta
 import warnings
 warnings.filterwarnings('ignore')
 
-client = Groq(api_key="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")
+client = Groq(api_key="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")
 
 st.set_page_config(page_title="FinAI", page_icon="💰", layout="wide")
 
